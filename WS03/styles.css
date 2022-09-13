@@ -1,0 +1,28 @@
+ul.a {
+
+color: white;
+list-style-type: square;
+}
+ol.b{
+color: white;
+}
+body{
+	background-color: black;
+
+}
+h1.heading{
+	font-size: 20px;
+	color: white;
+}
+.box{
+	width: 100px;
+	height:100px;
+	border-style: dotted;
+	border-color: white;
+	border-width: 2px;
+
+}
+p{
+	font-size: 12px;
+	color: lightgray;
+}
